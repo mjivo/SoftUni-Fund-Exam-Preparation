@@ -1,4 +1,2 @@
-# SoftUni-MidExamPreparation
-SoftUni-Programming fundamentals with C# mid exam preparation еxercise! 
-- SoftUni mid exam exercise
-Date: Aug-2021
+# SoftUni-Fundamentals-Module-Mid-Exam-Preparation
+SoftUni fundamentals with C# mid exam preparation еxercise - Aug-2021
